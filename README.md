@@ -54,15 +54,11 @@
 
 ### 📊 GitHub Stats
 
+### 📊 GitHub Stats
+
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Raghul202&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="Raghul's GitHub Stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raghul202&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Top Languages"
-  />
+  <img height="170" src="https://github-stats-extended.vercel.app/api?username=Raghul202&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Raghul202&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
