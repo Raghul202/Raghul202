@@ -1,76 +1,67 @@
-<h1 align="center">Hi 👋, I'm Raghul M</h1>
+<h1 align="center">Hey, I'm Raghul 👋</h1>
 
 <p align="center">
-  <strong>Full-Stack Developer</strong> · JavaScript · Python · Web Development
+  Full-stack developer building web apps, Discord bots & AI-powered tools
 </p>
 
 <p align="center">
-  <a href="https://github.com/Raghul202">GitHub</a>
-  ·
-  <a href="https://linkedin.com/in/Raghul.M">LinkedIn</a>
-  ·
-  <a href="mailto:raghul.m2.2002@gmail.com">Email</a>
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=blueviolet" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=flat-square&color=blue" alt="followers" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+### 👨‍💻 About Me
 
-* 💻 Building full-stack web applications
-* ⚡ Interested in JavaScript, React, Python and APIs
-* 🤖 Exploring AI-powered applications
-* 🛠️ Learning by building real projects
+- 🚀 Building full-stack web apps
+- 🤖 Exploring AI-powered applications
+- ⚡ Into JavaScript, React, Python & APIs
+- 🛠️ Learning by building real projects
 
 ---
 
-## 🧰 Tech Stack
+### 🧰 Tech Stack
 
 **Frontend**
 
-![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge\&logo=html5\&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge\&logo=css3\&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 **Backend & Database**
 
-![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge\&logo=python\&logoColor=3776AB)
-![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge\&logo=node.js\&logoColor=5FA04E)
-![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge\&logo=mysql\&logoColor=4479A1)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 **Tools**
 
-![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge\&logo=git\&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge\&logo=github\&logoColor=FFFFFF)
-![VS Code](https://img.shields.io/badge/VS%20Code-0D1117?style=for-the-badge\&logo=visualstudiocode\&logoColor=007ACC)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
-## 🚀 Featured Projects
+### 🚀 Featured Projects
 
-### 🤖 Aishu
-
-AI-powered Discord bot focused on conversations, memory and AI integrations.
-
-### 🛒 Fruvia
-
-Modern e-commerce web application with product browsing, search and cart functionality.
-
-### 🛍️ Shopmate
-
-Frontend shopping project built while exploring React and modern web development.
+| Project | Description | Stack |
+|---|---|---|
+| 🤖 [**Aishu**](https://github.com/YOUR_USERNAME/aishu) | AI Discord bot with conversations, memory & AI integrations | Python, Discord API |
+| 🛒 [**Fruvia**](https://github.com/YOUR_USERNAME/fruvia) | E-commerce app with product browsing, search & cart | React, JavaScript |
+| 🛍️ [**Shopmate**](https://github.com/YOUR_USERNAME/shopmate) | Frontend shopping project built while learning modern React | React, CSS |
 
 ---
 
-## 📊 GitHub
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Raghul202&show_icons=true&hide_border=true&theme=transparent&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raghul202&layout=compact&hide_border=true&theme=transparent&title_color=58A6FF&text_color=8B949E" height="170">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 <p align="center">
-  <i>Building. Learning. Improving.</i>
+  <i>Always building something new ⚡</i>
 </p>
